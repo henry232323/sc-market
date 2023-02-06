@@ -20,3 +20,18 @@ SC Market is a marketplace for facilitating exchange between Star Citizen orgs a
 # Support
 
 For support with the tool, either open an issue here or visit our [Discord support server](https://discord.com/invite/N4Gy8py8J4)
+
+# Signing Up
+- [How to Verify Your Account](https://github.com/henry232323/sc-market/wiki/How-to-Verify-Your-Account)
+
+# Market
+- [About the Market](https://github.com/henry232323/sc-market/wiki/The-Market)
+- [Creating a Market Listing](https://github.com/henry232323/sc-market/wiki/Creating-a-Market-Listing)
+
+# Contracting
+- [Contracts](https://github.com/henry232323/sc-market/wiki/Contracts)
+- [Open Contracts](https://github.com/henry232323/sc-market/wiki/Open-Contracts)
+- [Registering a Contractor](https://github.com/henry232323/sc-market/wiki/Registering-a-Contractor)
+- [Order Templates](https://github.com/henry232323/sc-market/wiki/Create-an-Order-Template)
+- [Viewing My Orders](https://github.com/henry232323/sc-market/wiki/Viewing-My-Orders)
+- [Managing an Order](https://github.com/henry232323/sc-market/wiki/Managing-an-Order)
