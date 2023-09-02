@@ -1,4 +1,4 @@
-# [SC Market](https://sc-market.space/#/)
+# [SC Market](https://sc-market.space/)
 
 SC Market is a marketplace for facilitating exchange between Star Citizen orgs and players, including buying and selling goods, as well as offering contracted work for groups offering various services, such as  transport, escort, rescue, and others.
 
@@ -35,3 +35,8 @@ For support with the tool, either open an issue here or visit our [Discord suppo
 - [Order Templates](https://github.com/henry232323/sc-market/wiki/Create-an-Order-Template)
 - [Viewing My Orders](https://github.com/henry232323/sc-market/wiki/Viewing-My-Orders)
 - [Managing an Order](https://github.com/henry232323/sc-market/wiki/Managing-an-Order)
+- [Managing Availability](https://github.com/henry232323/sc-market/wiki/Managing-Availability)
+
+# Discord Integration
+- [Getting Notified About Orders](https://github.com/henry232323/sc-market/wiki/Getting-Notified-About-Orders)
+- [Communicating with Buyers and Sellers](https://github.com/henry232323/sc-market/wiki/Communicating-with-Buyers-and-Sellers)
